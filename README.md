@@ -41,5 +41,5 @@ Each book has the following fields:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/book-inventory-api.git
+git clone [https://github.com/AwkwardlyProfessional/book-inventory-api.git]
 cd book-inventory-api
